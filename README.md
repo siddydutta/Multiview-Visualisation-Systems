@@ -5,6 +5,8 @@ Dataset used from [World Weather Repository (Daily Updated)](https://www.kaggle.
 # Conda Environment
 ```
 conda env create -f environment.yml
+conda activate infoviz
+jupyter notebook
 ```
 
 # Data Processing
