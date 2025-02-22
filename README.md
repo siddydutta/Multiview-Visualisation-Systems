@@ -10,11 +10,11 @@ jupyter notebook
 ```
 
 # Data Processing
-The `Data Processing.ipynb` notebook involves all the pre processing of the raw data including extracting the file, dropping miscellaneous columns, extrapolating columns and saving the cleaned data as `Global-Weather-Data.csv`.
+The `Data Processing.ipynb` notebook involves all the pre processing of the raw data including extracting the file, dropping miscellaneous columns, extrapolating columns and saving the cleaned data as `EU-UK-Weather-Data.csv`.
 
 # Use Data Directly
 ```
-wget https://raw.githubusercontent.com/siddydutta/Multiview-Visualisation-Systems/refs/heads/main/Global-Weather-Data.csv
+wget https://raw.githubusercontent.com/siddydutta/Multiview-Visualisation-Systems/refs/heads/main/EU-UK-Weather-Data.csv
 ```
 
 # Team Members
