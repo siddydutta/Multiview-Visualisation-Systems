@@ -1,0 +1,7 @@
+# cache files
+.DS_Store
+.ipynb_checkpoints/
+
+# docs
+*.pdf
+*.docx
