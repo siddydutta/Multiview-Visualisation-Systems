@@ -1,0 +1,61 @@
+﻿Participant ID,Task ID,System ID,User Answer,Completion Time (seconds),User Difficulty Rating (1 easy - 5 difficult),Artefact,Comments,Score
+1,1,A,#18,7,1,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/1-1-A.png,,1
+1,1,B,#18,39,3,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/1-1-B.png,"colour not distinguishable, opacity should be lower",1
+1,1,C,#25,12,1,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/1-1-C.png,colour encoding was confusing - city & condition,0
+1,2,A,"Bucharest,Rome,Bogot",125,3,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/1-2-A.png,"difficulty in zooming, finding week 28",3
+1,2,B,"Bogot,Bucharest,Athens",94,4,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/1-2-B.png,difficulty in selecting the timeline,3
+1,2,C,"Bogot,Nicosia,Athens",55,2,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/1-2-C.png,heatmap colour difficult to distinguish,3
+1,3,A,"2024-08-12,15.6",28,2,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/1-3-A.png,,2
+1,3,B,"2024-08-12,19.5",174,5,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/1-3-B.png,opacity too much for same day,1
+1,3,C,"2024-08-12,20.2",88,2,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/1-3-C.png,,1
+1,4,A,"Luxembourg,London,Brussels",46,2,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/1-4-A.png,,3
+1,4,B,"Luxembourg,London,Brussels",55,3,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/1-4-B.png,,3
+1,4,C,"Luxembourg,London,Brussels",36,2,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/1-4-C.png,should allow multi-city selection,3
+2,2,B,"Athens,Bogot,Bucharest",88,2,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/2-2-B.png,,3
+2,2,C,"Paris,Nicosia,Valletta",98,3,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/2-2-C.png,,1
+2,2,A,"Athens,Nicosia,Bogot",66,3,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/2-2-A.png,,3
+2,1,B,#18,12,1,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/2-1-B.png,,1
+2,1,C,#25,14,1,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/2-1-C.png,,0
+2,1,A,#18,15,1,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/2-1-A.png,,1
+2,4,B,"Luxembourg,Brussels,London",103,2,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/2-4-B.png,,1
+2,4,C,"London,Luxembourg,Brussels",54,2,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/2-4-C.png,,1
+2,4,A,"Luxembourg,London,Brussels",44,1,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/2-4-A.png,,3
+2,3,B,"2024-08-12,NA",180,4,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/2-3-B.png,,1
+2,3,C,"2024-08-12,-6.9",46,3,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/2-3-C.png,,1
+2,3,A,"2024-08-12,15.6",78,3,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/2-3-A.png,,2
+3,3,C,"2024-08-12,15.6",50,1,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/3-3-C.png,,2
+3,3,B,"2024-08-12,19.5",180,4,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/3-3-B.png,,1
+3,3,A,"2024-08-12,16",86,3,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/3-3-A.png,,1
+3,2,C,"Nicosia,Athens,Valletta",45,1,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/3-2-C.png,,2
+3,2,B,"Rome,Bogot,Athens",48,2,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/3-2-B.png,,3
+3,2,A,"Bogot,Bucharest,Vienna",38,1,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/3-2-A.png,,3
+3,4,C,"Luxembourg,London,Brussels",64,1,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/3-4-C.png,,3
+3,4,B,"Luxembourg,London,Brussels",46,1,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/3-4-B.png,,3
+3,4,A,"Luxembourg,London,Brussels",48,1,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/3-4-A.png,,3
+3,1,C,#18,4,1,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/3-1-C.png,,1
+3,1,B,#18,7,1,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/3-1-B.png,,1
+3,1,A,#18,8,1,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/3-1-A.png,,1
+4,4,C,"Luxembourg,London,Brussels",200,3,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/4-4-C.png,Multi City Filtering Required,3
+4,4,A,"Luxembourg,London,Brussels",120,2,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/4-4-A.png,Multi City Filtering Required,3
+4,4,B,"Luxembourg,London,Brussels",180,1,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/4-4-B.png,Multi City Filtering Required,3
+4,2,C,"Athens,Nicosia,Bogot",125,1,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/4-2-C.png,Indescirnible Pointers,3
+4,2,A,NA,290,3,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/4-2-A.png,Non-Existent Values,0
+4,2,B,"Rome,Bogot,Vienna",90,1,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/4-2-B.png,Indescirnible Pointers,3
+4,1,C,#18,24,2,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/4-1-C.png,Easy to capture,1
+4,1,A,#18,30,1,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/4-1-A.png,Easy to capture,1
+4,1,B,#18,16,1,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/4-1-B.png,Easy to capture,1
+4,3,C,"2024-08-12,16.8",75,2,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/4-3-C.png,Intricate to Span Time,1
+4,3,A,"2024-08-12,16",42,1,https://github.com/siddydutta/Multiview-Visualisation-Systems/blob/main/Evaluation/Artefacts/4-3-A.png,Easy to capture,1
+4,3,B,"2024-08-12,19.5",165,3,,Intricate to Span Time,1
+5,1,A,#18,13,1,,Easy to capture,1
+5,1,C,#18,27,2,,Couldn't recognise pie chart filter,1
+5,1,B,#18,27,1,,Easy to capture,1
+5,4,A,"Luxembourg,London,Brussels",40,1,,,3
+5,4,C,"Luxembourg,London,Brussels",65,2,,,3
+5,4,B,NA,180,4,,,0
+5,2,A,"2024-08-12,27.6",61,2,,,1
+5,2,C,"2024-08-12,NA",180,3,,,1
+5,2,B,"2024-08-12,29.3",104,4,,,1
+5,3,A,"Bogot, Bucharest,Vienna",65,2,,,3
+5,3,C,"Bogot, Bucharest,Vienna",50,2,,,3
+5,3,B,"Bogot, Bucharest,NA",101,4,,,2

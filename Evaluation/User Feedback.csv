@@ -1,0 +1,16 @@
+﻿Participant ID,System ID,Overall Aesthetics (1 bad to 5 good),Cognitive Load Assessment (1 heavy to 5 light),User Friendly / Navigation / Accessibility,Overall Feedback
+1,A,3,3,"Map is redundant, very laggy, would prefer one line chart for the system.","Filters would make tasks easier, too much data, zoom could have been easier."
+1,B,4,2,"Circles are too close together, size is not easy to compare, filters are good.",
+1,C,5,5,"Cannot select multiple cities, heatmap colours are not easy to distinguish.",
+2,B,2,2,"Typing instead of legend selection was not good, filters were good.","Very clustered, shape encodings were good."
+2,C,3,3,"Cannot select multiple cities, did not prefer selecting pie slice instead of legend, heatmap selection was good.",
+2,A,3,3,Can select multiple cities which was good but zooming was difficult.,
+3,C,4,4,"Cannot select multiple cities, but identification of week was easy.","Three different charts in system C made it easy without filtering, would prefer less zooming."
+3,B,2,2,"Difficult to select date, too many filters, legend should be selectable, overlapping points.",
+3,A,3,3,"Zooming was difficult, can select multiple cities, good colour scheme.",
+4,C,5,3,"Multi-City Filtering Essential, Intricate to Span Timing","Aesthetically pleasing but visulization systems must follow Tufte's rules. In addition, the researchers should address how these systems could be improvised for colour blind users."
+4,A,4,4,"Misleading Map, Intricate to Span Timeline, Intricate Zooming",
+4,B,4,3,"Easy to select range, Intricate to Span Timeline",
+5,A,2,2,I liked system A.,
+5,C,3,3,"Having humidity, temperature and date filter similar to system B would have been more helpful",
+5,B,4,4,Difficult to work on longitude and latitude (Panning and Zooming),
