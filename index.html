@@ -5,15 +5,90 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Multiview Visualisation Systems</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+
+        .container {
+            background-color: white;
+            border-radius: 8px;
+            padding: 30px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 30px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #3498db;
+        }
+
+        .systems-list {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .systems-list li {
+            margin: 15px 0;
+            transition: transform 0.2s;
+        }
+
+        .systems-list li:hover {
+            transform: translateX(10px);
+        }
+
+        .systems-list a {
+            display: block;
+            text-decoration: none;
+            color: #3498db;
+            background-color: #f8f9fa;
+            padding: 15px 20px;
+            border-left: 4px solid #3498db;
+            border-radius: 4px;
+            font-size: 1.1em;
+            font-weight: 500;
+            transition: all 0.3s;
+        }
+
+        .systems-list a:hover {
+            background-color: #e8f4f8;
+            color: #2472a4;
+            border-left-width: 8px;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 0.9em;
+            color: #7f8c8d;
+        }
+    </style>
 </head>
 
 <body>
-    <h1>Multiview Visualisation Systems</h1>
-    <ul>
-        <li><a href="systemA.html">System A</a></li>
-        <li><a href="systemB.html">System B</a></li>
-        <li><a href="systemC.html">System C</a></li>
-    </ul>
+    <div class="container">
+        <header>
+            <h1>Group 7: Multiview Visualisation Systems</h1>
+        </header>
+        <main>
+            <ul class="systems-list">
+                <li><a href="systemA.html">System A</a></li>
+                <li><a href="systemB.html">System B</a></li>
+                <li><a href="systemC.html">System C</a></li>
+            </ul>
+        </main>
+        <footer>
+            <p>COMPSCI5099 Information Visualisation M - 2024-25 Coursework</p>
+        </footer>
+    </div>
 </body>
 
 </html>
