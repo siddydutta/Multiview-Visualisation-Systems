@@ -2,17 +2,20 @@
 
 Dataset used from [World Weather Repository (Daily Updated)](https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository/data) on Kaggle. (extracted on 2024-02-22)
 
-# Conda Environment
+[Demo Video on YouTube](https://www.youtube.com/watch?v=PVWMhDoYCgY)
+
+## Development
+### Conda Environment
 ```
 conda env create -f environment.yml
 conda activate infoviz
 jupyter notebook
 ```
 
-# Data Processing
+### Data Processing
 The `Data Processing.ipynb` notebook involves all the pre processing of the raw data including extracting the file, dropping miscellaneous columns, extrapolating columns and saving the cleaned data as `EU-UK-Weather-Data.csv`.
 
-# Use Data Directly
+### Use Data Directly
 ```
 wget https://raw.githubusercontent.com/siddydutta/Multiview-Visualisation-Systems/refs/heads/main/EU-UK-Weather-Data.csv
 ```
